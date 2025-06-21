@@ -1,0 +1,22 @@
+Excel format : 
+Name | ROLL | PHY | BEE | CAL_I | EDC | PST | PRGC | SGPA |
+
+
+Application's Data Structure
+const result = [
+  { 
+    stuDetails: {
+      name: "Rajesh Khadka",
+      rollNum: 240120292,
+    },
+    academics: {
+      PHY: "A",
+      BEE: "A",
+      CAL_I: "A", // Was CLC — corrected to match Excel "CAL I"
+      EDC: "A",
+      PST: "A",
+      PRGC: "A",
+    },
+    SGPA: 4,
+  },
+];
