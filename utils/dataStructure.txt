@@ -12,7 +12,7 @@ const result = [
     academics: {
       PHY: "A",
       BEE: "A",
-      CAL_I: "A", // Was CLC — corrected to match Excel "CAL I"
+      CAL_I: "A",
       EDC: "A",
       PST: "A",
       PRGC: "A",
